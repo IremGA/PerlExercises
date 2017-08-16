@@ -12,4 +12,4 @@ Briefly Content of Perl Modules in the project :
 * **DateTimeValidation.pl : ** contains basic Date Time operations
 * **DateTimeValidation_BadStates.pl : ** compares dates
 * **FileOperation : ** contains basic file operations such as reading, writing and deleting line/s from a file and filtering. 
-* **HelloPerl.pl : ** contains "Chapter 1-Scalar" exercies which belong the learning perl book (llama book). 
+* **HelloPerl.pl : ** contains "Chapter 1-Scalar" exercies which belong to the learning perl book (llama book). 
