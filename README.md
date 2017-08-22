@@ -14,3 +14,4 @@ Briefly Content of Perl Modules in the project :
 * **FileOperation : ** contains basic file operations such as reading, writing and deleting line/s from a file and filtering. 
 * **HelloPerl.pl : ** contains "Chapter 1-Scalar" exercies which belong to the learning perl book (llama book). 
 * **Arrays_Lists.pl : ** contains "Chapter 2-Lists and Arrays" exercies which belong to the learning perl book (llama book). 
+* **Functions.pl : ** contains "Chapter 3-Subroutines" exercies which belong to the learning perl book (llama book).
